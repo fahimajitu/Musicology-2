@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+nav{
+    background-color: #303030;
+}
+#header-btn{
+    background-color: #e8631c;
+    border: 0px;
+}
+.hero-part{
+    background: url(../img/img-1.png) no-repeat center;
+    background-size: cover;
+    color: #fff;
+    padding: 450px 0px 20px;
+}
+#about{
+    background: url(../img/design-4.png);
+}
+.card{
+    background-color: #303030;
+}
+#pricing{
+    background: url(../img/design-3.png);
+}
+.card1{
+    background-color: #e8631c;
+    border-color:2px solid #303030;
+}
+#card1-btn{
+    background-color: black;
+}
+#dance{
+    background: url(../img/design-5.png) no-repeat center;
+    background-size: cover;
+    color: #fff;
+}
+.dance-writing-part{
+   margin-top: 400px;
+   
+}
+.dance-writing-part p{
+    font-size:25px ;
+    font-weight: 100;
+ }
+ .btn{
+    font-weight: 600;
+    font-size: larger;
+   
+ }
+ #dancing{
+    background: url(../img/design-4.png) no-repeat center;
+    background-size: cover;
+    color: #fff;
+}
+.dancing-writing-part{
+    margin-top: 400px;
+    
+ }
+ .dancing-writing-part p{
+     font-size:25px ;
+     font-weight: 100;
+  }
+  .btn{
+     font-weight: 600;
+     font-size: larger;
+    
+  }
+  #statistics{
+    background-color: #303030;
+    color: #fff;
+  }
+  .statistics-box{
+  
+  }
+  #simon{
+    background: url(../img/img34.png) no-repeat center;
+    background-size:cover ;
+    color: #fff;
+    padding: 4px;
+    padding-bottom:400px;
+  }
+  .simon-writing-part{
+    margin-top: 400px;
+  }
+  .simon-writing-part p{
+    font-size:25px;
+    font-weight: lighter;
+  
+  }
+#subscribs{
+    background: url(../img/img35.png) no-repeat center;
+    background-size: cover;
+    color: #fff;
+    padding: 100px;
+}
+.subscribs-writing-part p{
+    padding-bottom: 20px;
+}
+.subscribs-writing-part h1{
+    padding-bottom: 40px;
+    font-weight: bolder;
+    font-size: 200;
+}
+.subscribs-from-part{
+  margin-left:350px ;
+
+}
+#footer{
+    background-color: #303030;
+    color: #fff;
+    padding: 100px;
+ 
+  
+}
+.icon{
+    padding-left: 40px;
+}
+.icon i{
+    padding: 5px;
+}
+.footer-writing-part h2{
+    font-weight: 500;
+}
+.footer-writing-part ul{
+    font-weight: lighter;
+}
